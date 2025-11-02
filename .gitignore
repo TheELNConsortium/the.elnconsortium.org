@@ -1,0 +1,31 @@
+# ---------------------------
+# Hugo build artifacts
+# ---------------------------
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# ---------------------------
+# Editors & IDEs
+# ---------------------------
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---------------------------
+# Node / tooling caches
+# ---------------------------
+node_modules/
+.pnpm-store/
+.npm/
+.yarn/*
+!.yarn/patches/
+!.yarn/plugins/
+!.yarn/releases/
+!.yarn/sdks/
+!.yarn/versions/
+.cache/
+.sass-cache/
+.parcel-cache/
+dist/

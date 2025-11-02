@@ -1,0 +1,30 @@
+baseURL = 'https://the.elnconsortium.org/'
+languageCode = 'en-us'
+title = 'The ELN Consortium'
+theme = 'ananke'
+
+[menu]
+
+  [[menu.main]]
+  name = "Specification"
+  url = "/specification/"
+  weight = 20
+  identifier = "specification"
+
+  [[menu.main]]
+  name = "Community"
+  url = "/community/"
+  weight = 80
+  identifier = "community"
+
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 90
+  identifier = "about"
+
+
+[params.ananke.social.follow]
+networks = ["github"]
+[params.ananke.social.github]
+username = "theELNConsortium"
