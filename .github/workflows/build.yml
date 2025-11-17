@@ -29,11 +29,11 @@ jobs:
           HUGO_ENV: production
         run: hugo --minify -b https://the.elnconsortium.org
 
-      - name: Install awscli
-        run: |
-          curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
-          unzip awscliv2.zip
-          sudo ./aws/install
+     # - name: Install awscli
+     #   run: |
+     #     curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+     #     unzip awscliv2.zip
+     #     sudo ./aws/install --update
 
       - name: Sync to S3
         run: |
