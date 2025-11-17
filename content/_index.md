@@ -2,6 +2,8 @@
 featured_image: "/bg.webp"
 ---
 
+![logo](/logo-elnconsortium.webp)
+
 # Driving standards for interoperable electronic lab notebooks.
 
 The ELN Consortium is a collaborative community of electronic lab notebook
