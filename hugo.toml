@@ -6,6 +6,12 @@ theme = 'ananke'
 [menu]
 
   [[menu.main]]
+  name = "Members"
+  url = "/members/"
+  weight = 10
+  identifier = "members"
+
+  [[menu.main]]
   name = "Specification"
   url = "/specification/"
   weight = 20
