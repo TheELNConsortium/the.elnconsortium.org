@@ -2,6 +2,7 @@ baseURL = 'https://the.elnconsortium.org/'
 languageCode = 'en-us'
 title = 'The ELN Consortium'
 theme = 'ananke'
+enableRobotsTXT = true
 
 [menu]
 
