@@ -1,5 +1,6 @@
 ---
 featured_image: "/bg.webp"
+description: The ELN Specification
 ---
 
 # Specification
@@ -15,3 +16,7 @@ The up-to-date specification is available on the GitHub respository:
 ## Verify a .eln
 
 Use this app to verify a .eln validity: https://check-eln.streamlit.app/
+
+## IANA media type
+
+The `.eln` is an officially recognized media-type by IANA: [vnd.eln+zip](https://www.iana.org/assignments/media-types/application/vnd.eln+zip).

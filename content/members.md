@@ -1,5 +1,6 @@
 ---
 featured_image: "/bg.webp"
+description: List of consortium members
 ---
 
 # Members of the Consortium

@@ -1,5 +1,6 @@
 ---
 featured_image: "/bg.webp"
+description: An open community
 ---
 
 # Community

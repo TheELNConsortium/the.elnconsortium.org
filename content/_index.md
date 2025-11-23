@@ -1,5 +1,6 @@
 ---
 featured_image: "/bg.webp"
+description: Home of the ELN file format
 ---
 
 ![logo](/logo-elnconsortium.webp)
