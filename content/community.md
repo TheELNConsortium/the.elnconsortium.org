@@ -9,4 +9,6 @@ The standard is community driven, and all members have equal say in how we desig
 
 We meet every 2 months virtually to discuss various topics related to the .eln file format.
 
-Meetings are announced on our Discussions section: [Consortium Meetings](https://github.com/TheELNConsortium/TheELNFileFormat/discussions/categories/consortium-meetings).
+Meetings are announced on our Discussions section: [Consortium Meetings](https://github.com/TheELNConsortium/TheELNFileFormat/discussions/categories/consortium-meetings) and also on the mailing list:
+
+[Subscribe to the mailing list](http://eepurl.com/FqDJcDc10N).
