@@ -19,6 +19,7 @@ description: List of consortium members
 - PASTA: https://github.com/PASTA-ELN/pasta-eln
 - RSpace: https://www.researchspace.com/
 - SampleDB: https://github.com/sciapp/sampledb
+- SciLog: https://github.com/paulscherrerinstitute/scilog
 
 ## Interested parties:
 
